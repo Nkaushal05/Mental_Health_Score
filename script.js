@@ -5,7 +5,7 @@
 (() => {
   "use strict";
 
-  const API_BASE = "http://127.0.0.1:8000";// backend link
+  const API_BASE = "https://mental-health-score-1-k0n8.onrender.com";// backend link
   const REQUEST_TIMEOUT_MS = 15000;
 
   const TOP_COUNTRIES = ["India", "USA", "Canada", "Australia", "UK", "Germany", "Mexico", "Turkey", "France", "Other"];
